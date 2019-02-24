@@ -11,9 +11,6 @@ from datetime import datetime
 '''
 REQUERIMIENTOS:
 
-pip install gspread
-pip install oauth2client
-pip install PyOpenSSL
 pip install pyTelegramBotAPI
 '''
 
